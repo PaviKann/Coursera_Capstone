@@ -6,18 +6,3 @@ The purpose of this project is to develop an algorithm that will predict the sev
 Some of the key attributes that are associated with the severity of accidents are weather, road conditions and Light Condition.
 
 This model will alert the drivers when any of these conditions are above danger limit.  
-
-
-## Data Understanding
-
-
-## Data Preparation
-
-
-## Modeling
-
-
-## Evaluation
-
-
-## Deployment
