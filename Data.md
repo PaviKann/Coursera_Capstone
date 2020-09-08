@@ -1,6 +1,6 @@
 ## Data Understanding
 "SEVERITYCODE" is the is the target variable. It is the attribute that corresponds to the severity of the collision. The code values can be the following:
-..* 3 - Fatality
+* 3 - Fatality
 ..* 2b - Serious Injury
 ..* 2 - Injury
 ..* 1 - Prop damage
