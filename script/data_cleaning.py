@@ -1,4 +1,9 @@
 import pandas as pd
 import numpy as ny
+from IPython.display import display
 
-print ("Hello Capstone Project Course!")
+
+
+df = pd.read_csv('~/Documents/Capstone/Data-Collisions.csv')
+
+display(df["WEATHER"].value_counts())
